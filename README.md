@@ -5,5 +5,3 @@ Programming assignments that I implemented in python of [Coursera's Machine Lear
 
 
 
-### Programming Assignments Notebooks:
-
