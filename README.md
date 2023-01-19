@@ -5,3 +5,11 @@ Programming assignments that I implemented in python of [Coursera's Machine Lear
 
 
 
+### Programming Assignments Notebooks:
+
+[Programming Exercise 1 - Linear Regression](https://github.com/badrnasher/machine-learning-andrew-ng/tree/main/w2_ex1-octave)
+<br>
+[Programming Exercise 2 - Logistic Regression](https://github.com/badrnasher/machine-learning-andrew-ng/tree/main/w3_ex2-octave)
+<br>
+[Programming Exercise 3 - Multi-class Classification and Neural Networks](https://github.com/badrnasher/machine-learning-andrew-ng/tree/main/w4_ex3-octave)
+<br>
